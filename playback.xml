@@ -399,11 +399,8 @@
     <programme channel="CCTV4中文国际" start="20260413190000 +0800" stop="20260413193000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260413193000 +0800" stop="20260413200000 +0800">
+    <programme channel="CCTV4中文国际" start="20260413193000 +0800" stop="20260413203000 +0800">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260413200000 +0800" stop="20260413203000 +0800">
-        <title lang="zh">记住乡愁2026-46</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260413203000 +0800" stop="20260413210000 +0800">
         <title lang="zh">海峡两岸-2026-103</title>
@@ -411,11 +408,8 @@
     <programme channel="CCTV4中文国际" start="20260413210000 +0800" stop="20260413213000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260413213000 +0800" stop="20260413220000 +0800">
+    <programme channel="CCTV4中文国际" start="20260413213000 +0800" stop="20260413223000 +0800">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260413220000 +0800" stop="20260413223000 +0800">
-        <title lang="zh">走遍中国-2026-58</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260413223000 +0800" stop="20260413230230 +0800">
         <title lang="zh">新闻联播</title>
@@ -742,7 +736,7 @@
         <title lang="zh">国防微视频-军歌嘹亮-七十五厘米（2026）</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20260413200930 +0800" stop="20260413204330 +0800">
-        <title lang="zh">防务新观察-2026-103</title>
+        <title lang="zh">防务新观察-2026-备播4</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20260413204330 +0800" stop="20260413211715 +0800">
         <title lang="zh">军事纪实-2026-73</title>
@@ -1692,32 +1686,23 @@
     <programme channel="CCTV4欧洲" start="20260413190000 +0800" stop="20260413193000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260413193000 +0800" stop="20260413200000 +0800">
+    <programme channel="CCTV4欧洲" start="20260413193000 +0800" stop="20260413203000 +0800">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260413200000 +0800" stop="20260413204500 +0800">
-        <title lang="zh">开讲啦（海外版）-2026-7</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260413204500 +0800" stop="20260413205000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-28</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260413205000 +0800" stop="20260413210000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-11</title>
+    <programme channel="CCTV4欧洲" start="20260413203000 +0800" stop="20260413210000 +0800">
+        <title lang="zh">中国缘-2026-15</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260413210000 +0800" stop="20260413213000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260413213000 +0800" stop="20260413220000 +0800">
+    <programme channel="CCTV4欧洲" start="20260413213000 +0800" stop="20260413223000 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260413220000 +0800" stop="20260413224600 +0800">
+    <programme channel="CCTV4欧洲" start="20260413223000 +0800" stop="20260413231500 +0800">
+        <title lang="zh">动画城(四套)-2026-94</title>
+    </programme>
+    <programme channel="CCTV4欧洲" start="20260413231500 +0800" stop="20260413235900 +0800">
         <title lang="zh">枫桥警事第3集</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260413224600 +0800" stop="20260413233200 +0800">
-        <title lang="zh">枫桥警事第4集</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260413233200 +0800" stop="20260413235900 +0800">
-        <title lang="zh">中国缘-2026-15</title>
     </programme>
     <channel id="CCTV4美洲">
         <display-name lang="zh">CCTV4美洲</display-name>
@@ -1818,29 +1803,26 @@
     <programme channel="CCTV4美洲" start="20260413190000 +0800" stop="20260413193000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260413193000 +0800" stop="20260413200000 +0800">
+    <programme channel="CCTV4美洲" start="20260413193000 +0800" stop="20260413203000 +0800">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260413200000 +0800" stop="20260413210000 +0800">
-        <title lang="zh">环球综艺秀-2026-15</title>
+    <programme channel="CCTV4美洲" start="20260413203000 +0800" stop="20260413205600 +0800">
+        <title lang="zh">中国缘-2026-15</title>
+    </programme>
+    <programme channel="CCTV4美洲" start="20260413205600 +0800" stop="20260413210000 +0800">
+        <title lang="zh">记住乡愁-片段展播-2024-1</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260413210000 +0800" stop="20260413213000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260413213000 +0800" stop="20260413220000 +0800">
+    <programme channel="CCTV4美洲" start="20260413213000 +0800" stop="20260413223000 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260413220000 +0800" stop="20260413224500 +0800">
+    <programme channel="CCTV4美洲" start="20260413223000 +0800" stop="20260413231500 +0800">
         <title lang="zh">精彩音乐汇（海外版）-2026-97</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260413224500 +0800" stop="20260413233000 +0800">
+    <programme channel="CCTV4美洲" start="20260413231500 +0800" stop="20260413235900 +0800">
         <title lang="zh">动画城(四套)-2026-94</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260413233000 +0800" stop="20260413235600 +0800">
-        <title lang="zh">中国缘-2026-15</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260413235600 +0800" stop="20260413235900 +0800">
-        <title lang="zh">海峡两岸-2026-102</title>
     </programme>
     <channel id="CGTN外语纪录">
         <display-name lang="zh">CGTN外语纪录</display-name>
@@ -3483,8 +3465,35 @@
     <channel id="24小时城市联赛轮播台">
         <display-name lang="zh">24小时城市联赛轮播台</display-name>
     </channel>
-    <programme channel="24小时城市联赛轮播台" start="20260413000000 +0800" stop="20260413235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="24小时城市联赛轮播台" start="20260413000000 +0800" stop="20260413015200 +0800">
+        <title lang="zh">安徽徽乒赛滁州市定远县海选赛day1全场回放</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413015200 +0800" stop="20260413040200 +0800">
+        <title lang="zh">安徽徽青赛第9轮全场回放：滁州0:2亳州</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413040200 +0800" stop="20260413063700 +0800">
+        <title lang="zh">云南滇超第8轮全场回放：玉溪市5:0昭通市</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413063700 +0800" stop="20260413085500 +0800">
+        <title lang="zh">四川川超第3轮全场回放：达州川汉子队2:1绵阳九洲长虹队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413085500 +0800" stop="20260413120400 +0800">
+        <title lang="zh">广西县超第6轮全场回放：北海市合浦县队4:0崇左市凭祥市队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413120400 +0800" stop="20260413153000 +0800">
+        <title lang="zh">江西赣BA季后赛第2轮全场回放：吉安84:61萍乡</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413153000 +0800" stop="20260413182000 +0800">
+        <title lang="zh">广东粤BA第1轮全场回放：广州83:86中山</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413182000 +0800" stop="20260413202100 +0800">
+        <title lang="zh">安徽徽乒赛阜阳市界首市海选赛day2全场回放</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413202100 +0800" stop="20260413225800 +0800">
+        <title lang="zh">安徽徽青赛第9轮全场回放：蚌埠2:1芜湖</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413225800 +0800" stop="20260414013000 +0800">
+        <title lang="zh">云南滇超第8轮全场回放：大理州1:2迪庆州</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
@@ -4200,7 +4209,7 @@
     <programme channel="辽宁卫视" start="20260413225200 +0800" stop="20260413233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260413233100 +0800" stop="20260414000000 +0800">
+    <programme channel="辽宁卫视" start="20260413233100 +0800" stop="20260414003000 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
