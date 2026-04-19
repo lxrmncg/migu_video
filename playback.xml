@@ -135,8 +135,14 @@
     <programme channel="CCTV2财经" start="20260419053240 +0800" stop="20260419055930 +0800">
         <title lang="zh">回家吃饭-2026-80</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260419055930 +0800" stop="20260419070000 +0800">
+    <programme channel="CCTV2财经" start="20260419055930 +0800" stop="20260419065745 +0800">
         <title lang="zh">经济信息联播</title>
+    </programme>
+    <programme channel="CCTV2财经" start="20260419065745 +0800" stop="20260419065900 +0800">
+        <title lang="zh">财经频道经济信息联播片头后（当周次日重播）_播出</title>
+    </programme>
+    <programme channel="CCTV2财经" start="20260419065900 +0800" stop="20260419070000 +0800">
+        <title lang="zh">财经频道经济信息联播中插一（当周次日重播）_播出</title>
     </programme>
     <programme channel="CCTV2财经" start="20260419070000 +0800" stop="20260419090100 +0800">
         <title lang="zh">第一时间</title>
