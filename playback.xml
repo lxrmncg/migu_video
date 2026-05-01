@@ -64,7 +64,7 @@
         <title lang="zh">新闻30分</title>
     </programme>
     <programme channel="CCTV1综合" start="20260501123400 +0800" stop="20260501140915 +0800">
-        <title lang="zh">三餐四季（第三季）-2</title>
+        <title lang="zh">山水间的家（第四季）-12</title>
     </programme>
     <programme channel="CCTV1综合" start="20260501140915 +0800" stop="20260501145600 +0800">
         <title lang="zh">太平年第38集</title>
@@ -90,13 +90,13 @@
     <programme channel="CCTV1综合" start="20260501193910 +0800" stop="20260501200200 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260501200200 +0800" stop="20260501214620 +0800">
-        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-1套</title>
+    <programme channel="CCTV1综合" start="20260501200200 +0800" stop="20260501214850 +0800">
+        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-1</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260501214620 +0800" stop="20260501215020 +0800">
+    <programme channel="CCTV1综合" start="20260501214850 +0800" stop="20260501215250 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260501215020 +0800" stop="20260501220000 +0800">
+    <programme channel="CCTV1综合" start="20260501215250 +0800" stop="20260501220000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20260501220000 +0800" stop="20260501223545 +0800">
@@ -1470,20 +1470,17 @@
     <programme channel="CCTV15音乐" start="20260501172900 +0800" stop="20260501184430 +0800">
         <title lang="zh">民歌·中国-2026-33我的家乡我的歌16</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260501184430 +0800" stop="20260501200000 +0800">
+    <programme channel="CCTV15音乐" start="20260501184430 +0800" stop="20260501200200 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-221</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260501200000 +0800" stop="20260501213630 +0800">
-        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-1套</title>
+    <programme channel="CCTV15音乐" start="20260501200200 +0800" stop="20260501214620 +0800">
+        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-1</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260501213630 +0800" stop="20260501225200 +0800">
+    <programme channel="CCTV15音乐" start="20260501214620 +0800" stop="20260501230150 +0800">
         <title lang="zh">音乐公开课-2026-7</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260501225200 +0800" stop="20260501235130 +0800">
+    <programme channel="CCTV15音乐" start="20260501230150 +0800" stop="20260501235900 +0800">
         <title lang="zh">CCTV音乐厅-2026-128-“国风雅韵”民族管弦乐音乐会（1）</title>
-    </programme>
-    <programme channel="CCTV15音乐" start="20260501235130 +0800" stop="20260501235900 +0800">
-        <title lang="zh">风华国乐-2026-123</title>
     </programme>
     <channel id="CCTV17农业农村">
         <display-name lang="zh">CCTV17农业农村</display-name>
