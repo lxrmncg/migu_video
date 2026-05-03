@@ -1239,11 +1239,11 @@
     <programme channel="CCTV13新闻" start="20260503041500 +0800" stop="20260503050000 +0800">
         <title lang="zh">新闻周刊</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260503050000 +0800" stop="20260503051200 +0800">
+    <programme channel="CCTV13新闻" start="20260503050000 +0800" stop="20260503052500 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260503051200 +0800" stop="20260503060000 +0800">
-        <title lang="zh">新闻调查</title>
+    <programme channel="CCTV13新闻" start="20260503052500 +0800" stop="20260503060000 +0800">
+        <title lang="zh">吾家吾国</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260503060000 +0800" stop="20260503090000 +0800">
         <title lang="zh">朝闻天下</title>
@@ -3615,47 +3615,14 @@
     <programme channel="东方卫视" start="20260503082100 +0800" stop="20260503084200 +0800">
         <title lang="zh">上海工匠第十一季(6)</title>
     </programme>
-    <programme channel="东方卫视" start="20260503084200 +0800" stop="20260503092400 +0800">
-        <title lang="zh">都挺好(32)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260503092400 +0800" stop="20260503100500 +0800">
-        <title lang="zh">都挺好(33)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260503100500 +0800" stop="20260503104700 +0800">
-        <title lang="zh">都挺好(34)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260503104700 +0800" stop="20260503112900 +0800">
-        <title lang="zh">都挺好(35)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260503112900 +0800" stop="20260503120000 +0800">
-        <title lang="zh">都挺好精编(36)</title>
+    <programme channel="东方卫视" start="20260503084200 +0800" stop="20260503120000 +0800">
+        <title lang="zh">都挺好32-36</title>
     </programme>
     <programme channel="东方卫视" start="20260503120000 +0800" stop="20260503124200 +0800">
         <title lang="zh">环球交叉点(645)</title>
     </programme>
-    <programme channel="东方卫视" start="20260503124200 +0800" stop="20260503132700 +0800">
-        <title lang="zh">蛮好的人生(8)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260503132700 +0800" stop="20260503141000 +0800">
-        <title lang="zh">蛮好的人生(9)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260503141000 +0800" stop="20260503145500 +0800">
-        <title lang="zh">蛮好的人生(10)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260503145500 +0800" stop="20260503153700 +0800">
-        <title lang="zh">蛮好的人生(11)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260503153700 +0800" stop="20260503161900 +0800">
-        <title lang="zh">蛮好的人生(12)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260503161900 +0800" stop="20260503170200 +0800">
-        <title lang="zh">蛮好的人生(13)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260503170200 +0800" stop="20260503174300 +0800">
-        <title lang="zh">蛮好的人生(14)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260503174300 +0800" stop="20260503180000 +0800">
-        <title lang="zh">蛮好的人生(15)</title>
+    <programme channel="东方卫视" start="20260503124200 +0800" stop="20260503180000 +0800">
+        <title lang="zh">蛮好的人生8-15</title>
     </programme>
     <programme channel="东方卫视" start="20260503180000 +0800" stop="20260503185700 +0800">
         <title lang="zh">东方新闻</title>
