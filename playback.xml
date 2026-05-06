@@ -1281,10 +1281,10 @@
     <programme channel="CCTV13新闻" start="20260506034400 +0800" stop="20260506040000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260506040000 +0800" stop="20260506042500 +0800">
+    <programme channel="CCTV13新闻" start="20260506040000 +0800" stop="20260506042800 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260506042500 +0800" stop="20260506050000 +0800">
+    <programme channel="CCTV13新闻" start="20260506042800 +0800" stop="20260506050000 +0800">
         <title lang="zh">2026吾家吾国-11</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260506050000 +0800" stop="20260506051800 +0800">
@@ -4329,7 +4329,7 @@
     <programme channel="辽宁卫视" start="20260506220000 +0800" stop="20260506232900 +0800">
         <title lang="zh">纪录片:生命之歌</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260506232900 +0800" stop="20260507000000 +0800">
+    <programme channel="辽宁卫视" start="20260506232900 +0800" stop="20260507002700 +0800">
         <title lang="zh">午夜剧场:狼毒花17</title>
     </programme>
     <channel id="河北卫视">
