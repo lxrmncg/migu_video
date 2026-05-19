@@ -4371,8 +4371,146 @@
     <channel id="河北卫视">
         <display-name lang="zh">河北卫视</display-name>
     </channel>
-    <programme channel="河北卫视" start="20260519000000 +0800" stop="20260519235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="河北卫视" start="20260518235800 +0800" stop="20260519002300 +0800">
+        <title lang="zh">马王堆岁月不朽</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519002300 +0800" stop="20260519012400 +0800">
+        <title lang="zh">以法之名原版(35）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519012400 +0800" stop="20260519022400 +0800">
+        <title lang="zh">以法之名原版(36）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519022400 +0800" stop="20260519032500 +0800">
+        <title lang="zh">绝密较量原版(1）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519032500 +0800" stop="20260519042500 +0800">
+        <title lang="zh">绝密较量原版(2）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519042500 +0800" stop="20260519053400 +0800">
+        <title lang="zh">绝密较量原版(3）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519053400 +0800" stop="20260519062500 +0800">
+        <title lang="zh">绝密较量原版(4）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519062500 +0800" stop="20260519063000 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519063000 +0800" stop="20260519073000 +0800">
+        <title lang="zh">冀时全播报</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519073000 +0800" stop="20260519080000 +0800">
+        <title lang="zh">美丽河北慢直播</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519080000 +0800" stop="20260519081700 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519081700 +0800" stop="20260519090700 +0800">
+        <title lang="zh">经典剧场:薛平贵与王宝钏剪辑版(48）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519090700 +0800" stop="20260519091500 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519091500 +0800" stop="20260519100500 +0800">
+        <title lang="zh">经典剧场:薛平贵与王宝钏剪辑版(49）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519100500 +0800" stop="20260519101300 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519101300 +0800" stop="20260519110300 +0800">
+        <title lang="zh">经典剧场:薛平贵与王宝钏剪辑版(50）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519110300 +0800" stop="20260519111300 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519111300 +0800" stop="20260519120300 +0800">
+        <title lang="zh">经典剧场:薛平贵与王宝钏剪辑版(51）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519120300 +0800" stop="20260519121200 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519121200 +0800" stop="20260519130200 +0800">
+        <title lang="zh">情感剧场:薛平贵与王宝钏剪辑版(52）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519130200 +0800" stop="20260519131000 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519131000 +0800" stop="20260519140000 +0800">
+        <title lang="zh">情感剧场:薛平贵与王宝钏剪辑版(53）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519140000 +0800" stop="20260519140700 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519140700 +0800" stop="20260519145700 +0800">
+        <title lang="zh">情感剧场:薛平贵与王宝钏剪辑版(54）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519145700 +0800" stop="20260519150500 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519150500 +0800" stop="20260519155500 +0800">
+        <title lang="zh">情感剧场:薛平贵与王宝钏剪辑版(55）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519155500 +0800" stop="20260519160300 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519160300 +0800" stop="20260519165300 +0800">
+        <title lang="zh">情感剧场:薛平贵与王宝钏剪辑版(56）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519165300 +0800" stop="20260519165900 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519165900 +0800" stop="20260519174900 +0800">
+        <title lang="zh">情感剧场:薛平贵与王宝钏剪辑版(57）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519174900 +0800" stop="20260519175700 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519175700 +0800" stop="20260519183000 +0800">
+        <title lang="zh">家政女皇</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519183000 +0800" stop="20260519185500 +0800">
+        <title lang="zh">河北新闻联播</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519185500 +0800" stop="20260519190000 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519190000 +0800" stop="20260519193000 +0800">
+        <title lang="zh">中央台新闻联播</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519193000 +0800" stop="20260519193500 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519193500 +0800" stop="20260519201700 +0800">
+        <title lang="zh">黄金剧场：群星闪耀时原版（26）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519201700 +0800" stop="20260519202300 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519202300 +0800" stop="20260519210500 +0800">
+        <title lang="zh">黄金剧场：群星闪耀时原版（27）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519210500 +0800" stop="20260519210900 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519210900 +0800" stop="20260519215000 +0800">
+        <title lang="zh">电视剧：狂飙精编版（44）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519215000 +0800" stop="20260519223100 +0800">
+        <title lang="zh">电视剧：狂飙精编版（45）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519223100 +0800" stop="20260519230800 +0800">
+        <title lang="zh">电视剧：狂飙精编版（46）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519230800 +0800" stop="20260519230900 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519230900 +0800" stop="20260519233900 +0800">
+        <title lang="zh">你好京津冀</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519233900 +0800" stop="20260519234200 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260519234200 +0800" stop="20260520000000 +0800">
+        <title lang="zh">马王堆岁月不朽</title>
     </programme>
     <channel id="江西卫视">
         <display-name lang="zh">江西卫视</display-name>
