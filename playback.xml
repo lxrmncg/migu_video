@@ -6801,8 +6801,92 @@
     <channel id="江苏国际">
         <display-name lang="zh">江苏国际</display-name>
     </channel>
-    <programme channel="江苏国际" start="20260608000000 +0800" stop="20260608235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏国际" start="20260608000000 +0800" stop="20260608013000 +0800">
+        <title lang="zh">长江剧场</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608013000 +0800" stop="20260608015000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608015000 +0800" stop="20260608022000 +0800">
+        <title lang="zh">纪录</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608022000 +0800" stop="20260608023000 +0800">
+        <title lang="zh">快乐一家</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608023000 +0800" stop="20260608025000 +0800">
+        <title lang="zh">走读江南</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608025000 +0800" stop="20260608031000 +0800">
+        <title lang="zh">长江视野</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608031000 +0800" stop="20260608033000 +0800">
+        <title lang="zh">走读江南</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608033000 +0800" stop="20260608040000 +0800">
+        <title lang="zh">杨澜访谈录</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608040000 +0800" stop="20260608042000 +0800">
+        <title lang="zh">走读江南</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608042000 +0800" stop="20260608052500 +0800">
+        <title lang="zh">快乐一家</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608052500 +0800" stop="20260608073500 +0800">
+        <title lang="zh">经典剧场</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608073500 +0800" stop="20260608080500 +0800">
+        <title lang="zh">快乐一家</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608080500 +0800" stop="20260608102000 +0800">
+        <title lang="zh">人文剧场</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608102000 +0800" stop="20260608110500 +0800">
+        <title lang="zh">快乐一家</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608110500 +0800" stop="20260608112000 +0800">
+        <title lang="zh">你好，江苏</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608112000 +0800" stop="20260608115500 +0800">
+        <title lang="zh">赚翻天</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608115500 +0800" stop="20260608141000 +0800">
+        <title lang="zh">人文剧场</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608141000 +0800" stop="20260608143000 +0800">
+        <title lang="zh">长江视野</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608143000 +0800" stop="20260608150000 +0800">
+        <title lang="zh">赚翻天</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608150000 +0800" stop="20260608151000 +0800">
+        <title lang="zh">快乐一家</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608151000 +0800" stop="20260608172500 +0800">
+        <title lang="zh">经典剧场</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608172500 +0800" stop="20260608181000 +0800">
+        <title lang="zh">长江视野</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608181000 +0800" stop="20260608183000 +0800">
+        <title lang="zh">走读江南</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608183000 +0800" stop="20260608203000 +0800">
+        <title lang="zh">长江剧场</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608203000 +0800" stop="20260608205000 +0800">
+        <title lang="zh">你好，江苏</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608205000 +0800" stop="20260608212000 +0800">
+        <title lang="zh">走读江南</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608212000 +0800" stop="20260608221000 +0800">
+        <title lang="zh">杨澜访谈录</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608221000 +0800" stop="20260608230000 +0800">
+        <title lang="zh">纪录</title>
+    </programme>
+    <programme channel="江苏国际" start="20260608230000 +0800" stop="20260609000000 +0800">
+        <title lang="zh">长江剧场</title>
     </programme>
     <channel id="江苏教育">
         <display-name lang="zh">江苏教育</display-name>
