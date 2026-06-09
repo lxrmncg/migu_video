@@ -381,14 +381,11 @@
     <programme channel="CCTV4中文国际" start="20260609080000 +0800" stop="20260609090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260609090000 +0800" stop="20260609091500 +0800">
+    <programme channel="CCTV4中文国际" start="20260609090000 +0800" stop="20260609093000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260609091500 +0800" stop="20260609094230 +0800">
+    <programme channel="CCTV4中文国际" start="20260609093000 +0800" stop="20260609100000 +0800">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260609094230 +0800" stop="20260609100000 +0800">
-        <title lang="zh">平凡匠心-2025-21</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260609100000 +0800" stop="20260609101600 +0800">
         <title lang="zh">中国新闻</title>
