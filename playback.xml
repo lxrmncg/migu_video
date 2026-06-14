@@ -354,20 +354,23 @@
     <programme channel="CCTV4中文国际" start="20260614080000 +0800" stop="20260614090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260614090000 +0800" stop="20260614094200 +0800">
+    <programme channel="CCTV4中文国际" start="20260614090000 +0800" stop="20260614095900 +0800">
         <title lang="zh">第十八届海峡论坛大会-1</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260614094200 +0800" stop="20260614100900 +0800">
+    <programme channel="CCTV4中文国际" start="20260614095900 +0800" stop="20260614102600 +0800">
         <title lang="zh">国家记忆-2026-40</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260614100900 +0800" stop="20260614103600 +0800">
+    <programme channel="CCTV4中文国际" start="20260614102600 +0800" stop="20260614105300 +0800">
         <title lang="zh">国家记忆-2026-42</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260614103600 +0800" stop="20260614110300 +0800">
+    <programme channel="CCTV4中文国际" start="20260614105300 +0800" stop="20260614112000 +0800">
         <title lang="zh">国家记忆-2026-43</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260614110300 +0800" stop="20260614113000 +0800">
-        <title lang="zh">国家记忆-2026-44</title>
+    <programme channel="CCTV4中文国际" start="20260614112000 +0800" stop="20260614112300 +0800">
+        <title lang="zh">记住乡愁-片段展播-2024-39</title>
+    </programme>
+    <programme channel="CCTV4中文国际" start="20260614112300 +0800" stop="20260614113000 +0800">
+        <title lang="zh">记住乡愁-片段展播-2024-41</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260614113000 +0800" stop="20260614120000 +0800">
         <title lang="zh">海峡两岸-2026-164</title>
@@ -495,8 +498,17 @@
     <programme channel="CCTV5+体育赛事" start="20260614073000 +0800" stop="20260614083000 +0800">
         <title lang="zh">2026年世界体操挑战杯系列赛-科佩尔站2</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260614083000 +0800" stop="20260614113000 +0800">
-        <title lang="zh">2025/2026赛季美国职业篮球联赛-总决赛5</title>
+    <programme channel="CCTV5+体育赛事" start="20260614083000 +0800" stop="20260614093000 +0800">
+        <title lang="zh">实况录像-2026年赛艇世界杯 塞维利亚站</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260614093000 +0800" stop="20260614105000 +0800">
+        <title lang="zh">实况录像-2026年世界女排联赛 南京站 中国队—塞尔维亚队</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260614105000 +0800" stop="20260614110000 +0800">
+        <title lang="zh">实况录像-荣耀十分-2026年蹦床世界杯 阿尔克马尔站 王梓赛获金牌</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260614110000 +0800" stop="20260614113000 +0800">
+        <title lang="zh">实况录像-2026年国际篮联三人篮球世界杯 女子小组赛 菲律宾队—中国队</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260614113000 +0800" stop="20260614123100 +0800">
         <title lang="zh">实况录像-2026年全国举重锦标赛 男子比赛2</title>
@@ -504,17 +516,20 @@
     <programme channel="CCTV5+体育赛事" start="20260614123100 +0800" stop="20260614140100 +0800">
         <title lang="zh">2026年中国男篮热身赛-长沙站（中国队—塞尔维亚FMP俱乐部队）第二场（4K）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260614140100 +0800" stop="20260614153200 +0800">
-        <title lang="zh">实况录像-2026年世界男排联赛 临沂站 中国队—日本队</title>
+    <programme channel="CCTV5+体育赛事" start="20260614140100 +0800" stop="20260614153000 +0800">
+        <title lang="zh">实况录像-2026世界杯小组赛D组第一轮 美国队—巴拉圭队</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260614153200 +0800" stop="20260614170400 +0800">
-        <title lang="zh">实况录像-2026年世界田联钻石联赛  斯德哥尔摩站</title>
+    <programme channel="CCTV5+体育赛事" start="20260614153000 +0800" stop="20260614153500 +0800">
+        <title lang="zh">健身动起来-2026-162</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260614170400 +0800" stop="20260614180100 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260614153500 +0800" stop="20260614163000 +0800">
         <title lang="zh">实况录像-2026年世界职业拳王争霸赛 8</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260614180100 +0800" stop="20260614193000 +0800">
-        <title lang="zh">实况录像-2026世界杯小组赛D组第一轮 美国队—巴拉圭队</title>
+    <programme channel="CCTV5+体育赛事" start="20260614163000 +0800" stop="20260614183500 +0800">
+        <title lang="zh">2026年世界男排联赛-临沂站 （中国队-古巴队）</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260614183500 +0800" stop="20260614193000 +0800">
+        <title lang="zh">实况录像-2026年艺术体操世界挑战杯系列赛 波尔蒂芒站</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260614193000 +0800" stop="20260614210000 +0800">
         <title lang="zh">实况录像-2026世界杯小组赛B组第一轮 加拿大队—波黑队</title>
@@ -1500,26 +1515,17 @@
     <programme channel="CCTV4欧洲" start="20260614080000 +0800" stop="20260614090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260614090000 +0800" stop="20260614094500 +0800">
+    <programme channel="CCTV4欧洲" start="20260614090000 +0800" stop="20260614100200 +0800">
         <title lang="zh">第十八届海峡论坛大会-1</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260614094500 +0800" stop="20260614101100 +0800">
+    <programme channel="CCTV4欧洲" start="20260614100200 +0800" stop="20260614102800 +0800">
         <title lang="zh">鲁健访谈-2026-23</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260614101100 +0800" stop="20260614105700 +0800">
+    <programme channel="CCTV4欧洲" start="20260614102800 +0800" stop="20260614111400 +0800">
         <title lang="zh">爱在青山绿水间第21集</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260614105700 +0800" stop="20260614114300 +0800">
+    <programme channel="CCTV4欧洲" start="20260614111400 +0800" stop="20260614120000 +0800">
         <title lang="zh">爱在青山绿水间第22集</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260614114300 +0800" stop="20260614114800 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-21</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260614114800 +0800" stop="20260614115300 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-28</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260614115300 +0800" stop="20260614120000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-7</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260614120000 +0800" stop="20260614130000 +0800">
         <title lang="zh">中国新闻</title>
@@ -1623,22 +1629,16 @@
     <programme channel="CCTV4美洲" start="20260614080000 +0800" stop="20260614090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260614090000 +0800" stop="20260614094300 +0800">
+    <programme channel="CCTV4美洲" start="20260614090000 +0800" stop="20260614100000 +0800">
         <title lang="zh">第十八届海峡论坛大会-1</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260614094300 +0800" stop="20260614110700 +0800">
+    <programme channel="CCTV4美洲" start="20260614100000 +0800" stop="20260614112400 +0800">
         <title lang="zh">中国中医药大会（第三季）-7(四套)</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260614110700 +0800" stop="20260614113500 +0800">
+    <programme channel="CCTV4美洲" start="20260614112400 +0800" stop="20260614115200 +0800">
         <title lang="zh">深度国际-2026年6月-2</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260614113500 +0800" stop="20260614115000 +0800">
-        <title lang="zh">平凡匠心-2026-49</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260614115000 +0800" stop="20260614115500 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-21</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260614115500 +0800" stop="20260614120000 +0800">
+    <programme channel="CCTV4美洲" start="20260614115200 +0800" stop="20260614120000 +0800">
         <title lang="zh">记住乡愁-片段展播-2025-25</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260614120000 +0800" stop="20260614130000 +0800">
